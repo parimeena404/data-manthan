@@ -11,27 +11,6 @@
 Access the live platform here:  
 https://data-manthan.vercel.app/
 
----
-
-## 📖 Table of Contents
-
-- [Features](#-features)  
-- [Tech Stack](#-tech-stack)  
-- [Screenshots](#-screenshots)  
-- [Getting Started](#-getting-started)  
-- [Prerequisites](#prerequisites)  
-- [Setup & Installation](#setup--installation)  
-- [Configuration & Environment](#configuration--environment)  
-- [Running Locally](#running-locally)  
-- [Usage](#-usage)  
-- [Project Architecture](#-project-architecture)  
-- [API / Backend](#-api--backend)  
-- [Contributing](#-contributing)  
-- [License](#-license)  
-- [Authors & Acknowledgments](#-authors--acknowledgments)  
-
----
-
 ## ✨ Features
 
 - Unified ingestion of **oceanographic, morphological, taxonomy, molecular (eDNA)** data  
@@ -251,6 +230,7 @@ If you have questions, suggestions, or issues, feel free to reach out:
 ---
 
 Thank you for exploring **Data Manthan** — we hope this project helps pave the way for better integrated marine data science! 🌊
+
 
 
 
