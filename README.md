@@ -65,14 +65,17 @@ https://data-manthan.vercel.app/
 <div align="center">
   <table>
     <tr>
-      <td><img src="screenshots/home.png" width="200" alt="Home Page"/><br><em>Home Page</em></td>
-      <td><img src="screenshots/data-dashboard.png" width="200" alt="Dashboard"/><br><em>Dashboard</em></td>
-      <td><img src="screenshots/upload-data.png" width="200" alt="Upload Data"/><br><em>Upload / Ingestion</em></td>
+      <td><img src="<img width="1919" height="946" alt="image" src="https://github.com/user-attachments/assets/df3db8d0-64c9-4384-ae8d-9be4fff568dd" />" width="200" alt="Home Page"/><br><em>Home Page</em></td>
+      <td><img src="<img width="1919" height="829" alt="image" src="https://github.com/user-attachments/assets/76306b8c-5caf-465b-8684-7217c84932d1" />" width="200" alt="Dashboard"/><br><em>Dashboard</em></td>
+      <td><img src="<img width="1908" height="838" alt="image" src="https://github.com/user-attachments/assets/d55d894f-e076-46e1-9e0c-f3ed286376ca" />" width="200" alt="Upload Data"/><br><em>Upload / Ingestion</em></td>
     </tr>
     <tr>
-      <td><img src="screenshots/analytics.png" width="200" alt="Analytics"/><br><em>Analytics View</em></td>
-      <td><img src="screenshots/profile.png" width="200" alt="User Profile"/><br><em>User Profile / Auth</em></td>
-      <td></td>
+      <td><img src="<img width="1917" height="820" alt="image" src="https://github.com/user-attachments/assets/43550bcf-66cb-4246-b90f-397fa3abf152" />
+" width="200" alt="Analytics"/><br><em>Analytics View</em></td>
+      <td><img src="<img width="1907" height="810" alt="image" src="https://github.com/user-attachments/assets/02ee6354-e477-4cd4-b5b8-12eeacc9974d" />
+" width="200" alt="User Profile"/><br><em>Fish classification Model/ Auth</em></td>
+      <td><img src="<img width="1919" height="938" alt="image" src="https://github.com/user-attachments/assets/3253706e-6f16-45cb-8751-56361c2aaebf" />
+" width="200" alt="User Profile"/><br><em>Marine data apploce centere</em></td></td>
     </tr>
   </table>
 </div>
@@ -231,4 +234,5 @@ If you have questions, suggestions, or issues, feel free to reach out:
 ---
 
 Thank you for exploring **Data Manthan** — we hope this project helps pave the way for better integrated marine data science! 🌊
+
 
