@@ -60,10 +60,7 @@ https://data-manthan.vercel.app/
 
 ## 📸 Screenshots
 
-> *Replace image paths / URLs with your actual screenshots*
-
 <div align="center">
- ## 📸 Screenshots
 
 <div align="center">
   <table>
@@ -254,6 +251,7 @@ If you have questions, suggestions, or issues, feel free to reach out:
 ---
 
 Thank you for exploring **Data Manthan** — we hope this project helps pave the way for better integrated marine data science! 🌊
+
 
 
 
