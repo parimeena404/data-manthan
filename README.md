@@ -24,18 +24,6 @@ https://data-manthan.vercel.app/
 
 ---
 
-## 🧰 Tech Stack
-
-| Layer | Technologies / Tools |
-|------|------------------------|
-| Frontend / UI | Next.js, React, Tailwind CSS |
-| Backend / API | Next.js API Routes (or Express / Node.js) |
-| Database | MongoDB (Atlas) |
-| Authentication | JWT, OAuth |
-| Data Processing & ML | Python / AI libraries (if applicable) |
-| Deployment | Vercel / Cloud Hosting |
-
----
 
 ## 📸 Screenshots
 
@@ -75,6 +63,19 @@ https://data-manthan.vercel.app/
 </div>
 
 </div>
+
+---
+
+## 🧰 Tech Stack
+
+| Layer | Technologies / Tools |
+|------|------------------------|
+| Frontend / UI | Next.js, React, Tailwind CSS |
+| Backend / API | Next.js API Routes (or Express / Node.js) |
+| Database | MongoDB (Atlas) |
+| Authentication | JWT, OAuth |
+| Data Processing & ML | Python / AI libraries (if applicable) |
+| Deployment | Vercel / Cloud Hosting |
 
 ---
 
@@ -230,6 +231,7 @@ If you have questions, suggestions, or issues, feel free to reach out:
 ---
 
 Thank you for exploring **Data Manthan** — we hope this project helps pave the way for better integrated marine data science! 🌊
+
 
 
 
