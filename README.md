@@ -227,10 +227,12 @@ If you have questions, suggestions, or issues, feel free to reach out:
 * [anshika01-agrawal](https://github.com/anshika01-agrawal)
 * [ROHANBAIRAGI123](https://github.com/ROHANBAIRAGI123)
 * [rishabharaj](https://github.com/rishabharaj)
+* [parimeena404](https://github.com/parimeena404)
 
 ---
 
 Thank you for exploring **Data Manthan** — we hope this project helps pave the way for better integrated marine data science! 🌊
+
 
 
 
